@@ -1,0 +1,74 @@
+header{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(30, 30, 157);
+}
+main{
+    width: 100%;
+    height: 80vh;
+    background-color: rgb(104, 104, 201);
+}
+footer{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(30, 30, 157);
+}
+.q1{
+    width: 100%;
+    height: 7vh;
+    background-color: rgb(205, 114, 135);
+}
+.q2{
+    width: 15%;
+    height: 10vh;
+    background-color: rgb(191, 52, 84);
+    margin-left: 20vh;
+    margin-top: 2vh;
+    position: absolute;
+  
+
+}
+.q3{
+    width: 15%;
+    height: 10vh;
+    background-color: rgb(173, 5, 45);
+    margin-left: 60vh;
+    margin-top: 2vh;
+    position: absolute;
+
+  
+
+}
+.q4{
+    width: 30%;
+    height: 10vh;
+    background-color: rgb(5, 5, 173);
+    margin-left: 130vh;
+    margin-top: 2vh;
+    position: absolute;
+
+  
+
+}
+#q1{
+    width: 100%;
+    height: 10vh;
+
+
+}
+#q2{
+   margin-left: 10vh;
+   margin-top: 3vh;
+ position: absolute;
+    
+
+}
+#q3{
+    margin-left: 20vh;
+    margin-top: 3vh;
+  position: absolute;
+     
+ 
+ }
+ 
+
